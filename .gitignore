@@ -1,0 +1,12 @@
+.djangopass
+.djangopass.web1
+venv/
+.DS_Store
+my.cnf
+.vscode
+dev/
+static/*
+*__pycache__*
+*.pyc
+celerybeat-schedule
+tmp/
