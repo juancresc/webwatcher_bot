@@ -1,0 +1,17 @@
+web1 botapi yourown
+web1 mysqlsock /var/run/mysqld/mysqld.sock
+web1 database webwatcher
+web1 user webwatcher
+web1 password yourown
+web1 default-character-set utf8
+web1 port 3306
+web1 host localhost
+
+Juans-MacBook-Pro.local botapi yourown
+Juans-MacBook-Pro.local mysqlsock /Applications/XAMPP/xamppfiles/var/mysql/mysql.sock
+Juans-MacBook-Pro.local database webwatcher
+Juans-MacBook-Pro.local user root
+Juans-MacBook-Pro.local password yourown
+Juans-MacBook-Pro.local default-character-set utf8
+Juans-MacBook-Pro.local port 3306
+Juans-MacBook-Pro.local host localhost
